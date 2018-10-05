@@ -171,7 +171,7 @@
 % Provide inline description lists
 \newenvironment{rsinline}[1][\ttfamily]
 {
-  \begin{description*}[mode=unboxed,font={#1},itemjoin={{; }},afterlabel={{\nobreakspace}}]
+  \begin{description*}[mode=unboxed,font={#1},itemjoin={{; }},afterlabel={{\nobreakspace}},after={{.}}]
 }{
     \end{description*}
 }
