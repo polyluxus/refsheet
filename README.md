@@ -1,3 +1,9 @@
+**Deprecated**
+
+Please see https://github.com/polyluxus/refcard for an upgraded version of this class.
+
+---
+
 # refsheet
 
 A Reference sheet class for LaTeX2e.
